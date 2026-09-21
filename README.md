@@ -1,5 +1,20 @@
 # ROS2 Campus Autonomous Delivery Robot
 
+<!-- NEXUS_PROJECT_META_START -->
+
+## Project Management
+
+| Field | Value |
+| --- | --- |
+| Status | 🟠 Prototype |
+| Project Lead | TBD |
+| Team / Support | PAICHAI NEXUS |
+| Next Milestone | ROS2/Nav2 기본 시뮬레이션 및 평가 시나리오 확정 |
+| Registry | [NEXUS Project Registry](https://github.com/paichai-nexus/nexus-project-registry) |
+
+<!-- NEXUS_PROJECT_META_END -->
+
+
 ROS2-based autonomous delivery robot research project for steep and pedestrian-dense campus environments.
 
 This project investigates localization, path planning, obstacle avoidance, sensor fusion, and fail-safe control for low-speed autonomous mobility in the Paichai University campus environment.
